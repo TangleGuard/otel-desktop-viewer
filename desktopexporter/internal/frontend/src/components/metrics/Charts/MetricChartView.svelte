@@ -21,7 +21,7 @@
   import MetricQuantileAreaChart from '@/components/metrics/Charts/MetricQuantileAreaChart.svelte'
   import HistogramChart from '@/components/metrics/Charts/HistogramChart.svelte'
   import HistogramHeatmap from '@/components/metrics/Charts/HistogramHeatmap.svelte'
-  import UnspecifiedTemporalityCallout from '@/components/metrics/Detail/UnspecifiedTemporalityCallout.svelte'
+  import UnspecifiedTemporalityCallout from '@/components/metrics/Charts/UnspecifiedTemporalityCallout.svelte'
   import {
     DEFAULT_METRIC_CHART_HEIGHT,
     MIN_METRIC_CHART_HEIGHT,
